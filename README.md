@@ -1,16 +1,10 @@
-# docs_clone
+# Google Docs Clone
 
-A new Flutter project.
+## Using Flutter, NodeJS, Socket IO.
 
-## Getting Started
+Documents can be created and edited my an individuals or a group by sharing the docs link.
 
-This project is a starting point for a Flutter application.
+Flutter on UI
+NodeJS, Express on backend
+Socket IO to enable realtime edition of document among peers.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
